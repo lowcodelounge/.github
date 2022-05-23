@@ -34,3 +34,6 @@ Lowcode Lounge will focus on creating and curating projects that align with the 
 - Interested in trying it out? [Copy one of our repository templates and jump in](https://github.com/orgs/lowcodelounge/repositories)
 - Want to contribute? [Reach out to @pglevy on Twitter](https://twitter.com/pglevy)
 - Not ready to start but want to follow along? [Follow @lowcodelounge on Twitter](https://twitter.com/lowcodelounge) or [subscribe to the newsletter](https://www.getrevue.co/profile/pglevy)
+
+## Credits
+- Photo by [@dillon_mangum](https://unsplash.com/@dillon_mangum) on Unsplash

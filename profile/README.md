@@ -31,6 +31,7 @@ The no-code and low-code marketplace is exploding with all kinds of tools. And t
 Lowcode Lounge will focus on creating and curating projects that align with the mindset and methods described above. In most cases, that will mean public repositories that are set up to be used as templates with the goal of making them as straightforward and easy as possible for our intentded audience to reuse for their own learning and projects. 
 
 ## What to do next
+- Want to learn more? [Check out our videos on YouTube](https://www.youtube.com/channel/UCwtHQRw3yMXi0eIkzrJOxhQ)
 - Interested in trying it out? [Copy one of our repository templates and jump in](https://github.com/orgs/lowcodelounge/repositories)
 - Want to contribute? [Reach out to @pglevy on Twitter](https://twitter.com/pglevy)
 - Not ready to start but want to follow along? [Follow @lowcodelounge on Twitter](https://twitter.com/lowcodelounge) or [subscribe to the newsletter](https://www.getrevue.co/profile/pglevy)

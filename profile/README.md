@@ -33,8 +33,8 @@ Lowcode Lounge will focus on creating and curating projects that align with the 
 ## What to do next
 - Want to learn more? [Check out our videos on YouTube](https://www.youtube.com/channel/UCwtHQRw3yMXi0eIkzrJOxhQ)
 - Interested in trying it out? [Copy one of our repository templates and jump in](https://github.com/orgs/lowcodelounge/repositories)
-- Want to contribute? [Reach out to @pglevy on Twitter](https://twitter.com/pglevy)
-- Not ready to start but want to follow along? [Follow @lowcodelounge on Twitter](https://twitter.com/lowcodelounge) or [subscribe to the newsletter](https://www.getrevue.co/profile/pglevy)
+- Want to contribute? [Reach out to Philip on LinkedIn](https://www.linkedin.com/in/philipglevy/)
+- Not ready to start but want to follow along? Press the follow button above.
 
 ## Credits
 - Photo by [@dillon_mangum](https://unsplash.com/@dillon_mangum) on Unsplash
